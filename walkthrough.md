@@ -6,7 +6,7 @@ You will be using this editor to download, write, and submit your code.
 Let's step through all of its components.
 
 ### The Side Panel
-This side panel is where you will always find your instructions. If you ever accidentally close this side panel, return to the Interview Details Document to get the command for reopening it.
+This side panel is where you will always find your instructions. If you ever accidentally close this side panel, return to the Interview Details Document (the document you receive by email upon signing up to start your interview) to get the command for reopening it.
 
 ### The Terminal
 

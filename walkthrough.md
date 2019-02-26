@@ -15,7 +15,7 @@ Let's step through all of its components.
 * To run a command listed in your instructions, click the  <walkthrough-cloud-shell-icon></walkthrough-cloud-shell-icon> icon on the right side of the code box below to paste the command directly into the terminal and push enter.
 
 ```bash
-sh ~/editor-walkthrough/timer.sh
+sh ~/editor-walkthrough/timer.sh &
 ```
 * When you start the interview a timer will appear like the one you now see at the bottom of the terminal window. 
 

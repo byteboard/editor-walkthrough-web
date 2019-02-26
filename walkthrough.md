@@ -1,15 +1,15 @@
 # Byteboard Environment Walk-Through
 
-Part 2 of the Byteboard interview will require you to code in this web IDE environment. Take this time to familiarize yourself with the components and run a provided script. 
+## Familiarize yourself with this environment
+Part 2 of the Byteboard interview will require you to code in this web IDE environment. Take this time to familiarize yourself with its components and run a provided script. 
 
 &nbsp;
 
-**The Side Panel** will contain your instructions and task list. If you accidentally close it, return to your Interview Details Document to get the command to reopen.
+**This Side Panel** will contain your instructions and task list. If you accidentally close it, return to your Interview Details Document to get the command to reopen it.
 
 &nbsp;
 
 **The Terminal** can be minimized by clicking the <walkthrough-cloud-shell-icon></walkthrough-cloud-shell-icon> icon above this panel.
-
 * You can copy commands listed in your instructions to your terminal by clicking the <walkthrough-cloud-shell-icon></walkthrough-cloud-shell-icon> in code boxes like the one below. Try running the command below:
 ```bash
 sh ~/editor-walkthrough/timer.sh &

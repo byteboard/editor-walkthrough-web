@@ -12,7 +12,7 @@ Let's step through all of its components.
 ### The Terminal
 
 * You can open and close the terminal window by clicking the <walkthrough-cloud-shell-icon></walkthrough-cloud-shell-icon> icon above this panel.
-* To run a command listed in your instruction, click the  <walkthrough-cloud-shell-icon></walkthrough-cloud-shell-icon> icon on the right side of the code box below to paste the command directly into the terminal and push enter.
+* To run a command listed in your instructions, click the  <walkthrough-cloud-shell-icon></walkthrough-cloud-shell-icon> icon on the right side of the code box below to paste the command directly into the terminal and push enter.
 
 ```bash
 sh ~/editor-walkthrough/timer.sh

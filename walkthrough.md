@@ -10,7 +10,7 @@ Part 2 of the Byteboard interview will require you to code in this web IDE envir
 &nbsp;
 
 **The Terminal** can be minimized by clicking the <walkthrough-cloud-shell-icon></walkthrough-cloud-shell-icon> icon above this panel.
-* You can copy commands listed in your instructions to your terminal by clicking the <walkthrough-cloud-shell-icon></walkthrough-cloud-shell-icon> in code boxes like the one below. Try running the command below:
+* You can copy commands listed in the instructions to the terminal by clicking the <walkthrough-cloud-shell-icon></walkthrough-cloud-shell-icon> in code boxes like the one below. Try running the command below:
 ```bash
 sh ~/editor-walkthrough/timer.sh &
 ```

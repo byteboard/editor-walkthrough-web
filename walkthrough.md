@@ -6,7 +6,7 @@ You will be using this editor to download, write, and submit your code.
 Let's step through all of its components.
 
 ### The Side Panel
-This side panel is where you will always find your instructions. If you ever accidentally close this side panel, return to your interview details document to get the command for reopening it.
+This side panel is where you will always find your instructions. If you ever accidentally close this side panel, return to the Interview Details Document to get the command for reopening it.
 
 ### The Terminal
 
@@ -29,4 +29,4 @@ echo "Hello World"
 
 *Other Tips:*
 * If you are unfamiliar with the command line [here are some key Linux commands](http://www.informit.com/blogs/blog.aspx?uk=The-10-Most-Important-Linux-Commands).
-* When you download your code a timer will appear at the bottom of your terminal window. 
+* Note, when you start the interview and download your code a timer will appear at the bottom of your terminal window. 

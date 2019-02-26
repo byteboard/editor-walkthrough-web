@@ -1,7 +1,7 @@
 # Byteboard Environment Walk-Through
 
 In order to ensure you are prepared to start your coding challenge, we would like to walk you through this coding environment.
-You will be using this editor to download, write, and submit your code.
+You will be working in this environment to download, write, and submit your code.
 
 Let's step through all of its components.
 

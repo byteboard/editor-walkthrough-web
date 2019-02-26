@@ -14,8 +14,7 @@ You will be able to run your code in the terminal panel at the bottom of the scr
 * Any commands you will need to run will be found in a black code box like the one you see below.
 You can click the  <walkthrough-cloud-shell-icon></walkthrough-cloud-shell-icon> icon on the right side of the code box to paste the command directly into the terminal.
 * You can open and close the terminal window by clicking the <walkthrough-cloud-shell-icon></walkthrough-cloud-shell-icon> icon above this panel.
-
-Try running a command now:
+* Try running a command now:
 
 ```bash
 sh ~/editor-walkthrough/timer.sh

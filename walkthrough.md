@@ -18,8 +18,9 @@ You can click the  <walkthrough-cloud-shell-icon></walkthrough-cloud-shell-icon>
 Try running a command now:
 
 ```bash
-echo "Hello World"
+sh ~/editor-walkthrough/timer.sh
 ```
+* When you start the interview a timer will appear like the one you now see at the bottom of the terminal window. 
 
 ### The Editor
 
@@ -29,5 +30,4 @@ echo "Hello World"
 
 *Other Tips:*
 * If you are unfamiliar with the command line [here are some key Linux commands](http://www.informit.com/blogs/blog.aspx?uk=The-10-Most-Important-Linux-Commands).
-* Note, when you start the interview and download your code a timer will appear at the bottom of your terminal window. 
-* If you would like to change the color theme of the editor go to File > Settings > Change Color Theme. 
+* If you would like to change the editor's color theme go to File > Settings > Change Color Theme. 

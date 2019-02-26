@@ -1,29 +1,21 @@
 # Byteboard Environment Walk-Through
 
-In order to ensure you are prepared to start your coding challenge, we would like to walk you through this coding environment.
-You will be working in this environment to download, write, and submit your code.
+Part 2 of the Byteboard interview will require you to code in this web IDE environment. Take this time to familiarize yourself with the components and run a provided script. 
+**The Side Panel** will contain your instructions and task list. If you accidentally close it, return to your Interview Details Document to get the command to reopen.
 
-Let's step through all of its components.
+&nbsp;
 
-### The Side Panel
-* This side panel is where you will always find your instructions.
-* If you ever accidentally close this side panel, return to the Interview Details Document (the document you receive by email upon signing up to start your interview) to get the command for reopening it.
+**The Terminal** can be minimized by clicking the <walkthrough-cloud-shell-icon></walkthrough-cloud-shell-icon> icon above this panel.
 
-### The Terminal
-
-* You can open and close the terminal window by clicking the <walkthrough-cloud-shell-icon></walkthrough-cloud-shell-icon> icon above this panel.
-* To run a command listed in your instructions, click the  <walkthrough-cloud-shell-icon></walkthrough-cloud-shell-icon> icon on the right side of the code box below to paste the command directly into the terminal and push enter.
+* You can copy commands listed in your instructions to your terminal by clicking the <walkthrough-cloud-shell-icon></walkthrough-cloud-shell-icon> in code boxes like the one below. Try running the command below:
 
 ```bash
 sh ~/editor-walkthrough/timer.sh &
 ```
-* When you start the interview a timer will appear like the one you now see at the bottom of the terminal window. 
+* A timer will show at the bottom right of the terminal once you start your interview. You should see an example timer running now.
 
-### The Editor
-
-*  You can open or close the editor by clicking on the <walkthrough-cloud-shell-editor-icon></walkthrough-cloud-shell-editor-icon> icon above this panel.
-*  With the editor open, explore the source file for this walk-through by opening `walkthrough.md`.
-*  Note, that any changes you make will be auto-saved.
+**The Editor** will auto-save any changes you make. It can be minimized by clicking on the <walkthrough-cloud-shell-editor-icon></walkthrough-cloud-shell-editor-icon> icon above this panel.
+*  To familiarize yourself with the file menu, explore the source file for this walk-through by opening walkthrough.md in the editor. 
 
 *Other Tips:*
 * If you are unfamiliar with the command line [here are some key Linux commands](http://www.informit.com/blogs/blog.aspx?uk=The-10-Most-Important-Linux-Commands).

@@ -1,9 +1,6 @@
 # Byteboard Environment Walk-Through
 
-## Familiarize yourself with this environment
-Part 2 of the Byteboard interview will require you to code in this web IDE environment. Take this time to familiarize yourself with its components and run a provided script. 
-
-&nbsp;
+## Let's walk-through Byteboard's IDE
 
 **This Side Panel** will contain your instructions and task list. If you accidentally close it, return to your Interview Details Document to get the command to reopen it.
 
@@ -18,8 +15,16 @@ sh ~/editor-walkthrough/timer.sh &
 
 &nbsp;
 
-**The Editor** will auto-save any changes you make. It can be minimized by clicking on the <walkthrough-cloud-shell-editor-icon></walkthrough-cloud-shell-editor-icon> icon above this panel.
-*  To familiarize yourself with the file menu, explore the source file for this walk-through by opening walkthrough.md in the editor. 
+**The Editor** will auto-save any changes you make. To familiarize yourself with the editor's features perform the following 8 tasks: 
+1. If it is closed, open the editor by pushing the <walkthrough-cloud-shell-editor-icon></walkthrough-cloud-shell-editor-icon> icon above this panel.
+2. Open the runner.py file in the editor-walkthrough folder. 
+3. Hover over ``` MathStuff() ``` in the runner.py file. You should see the definition of the MathStuff Class appear. Hovering over functions, classes, and libraries allows you to view relevant documentation. 
+4. Now right click on ``` MathStuff() ``` and select "Find all references." You should now be able to see all of the occurances of MathStuff throughout your file system. 
+5. In the references view, click on the mathStuff.py dropdown and click on "class MathStuff". In the code view you should now see a snippet of the code where the MathStuff class is defined. In this view you can edit the snippet directly. 
+    Try adding something to the current ``` MathStuff() ``` documentation.
+6. Close the references view and right click on ```square```. Push "Go to definition." You should now be in the mathStuff.py file. There is also an option in the right-click menu for "Peek Definition" if you dont want to jump to the definition itself.
+7. Now go to the menu at the top of the editor and push View > Outline. You should now see a full outline of the mathStuff.py file for easy navigation. 
+8. Take a moment to explore a little more. There are several features that we weren't able to walk-through but you may find interesting.  
 
 &nbsp;
 

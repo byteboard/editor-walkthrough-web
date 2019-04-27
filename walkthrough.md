@@ -21,7 +21,7 @@ sh ~/editor-walkthrough/timer.sh &
 1. Open the runner.py file in the editor-walkthrough folder. 
 2. Hover over ``` MathStuff() ``` in the runner.py file. You should see the definition of the MathStuff Class appear. Hovering over functions, classes, and libraries allows you to view relevant documentation. 
 3. Right click on ``` MathStuff() ```, and explore options like 
-    * "Find all references" (search across files)
+    * "Find all references" (search across files and edit inline)
     * "Go to definition" (open the file where item is defined)
     * "Peak definition" (show inline the place where item is defined)
 4. From the menu, click View > Outline. This shows a full outline of the runner.py file for easy navigation.

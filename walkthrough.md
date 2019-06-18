@@ -2,18 +2,12 @@
 
 ## Let's walk-through the Byteboard IDE
 
-&nbsp;
-
-**This Side Panel** will contain your instructions and task list during your interview. If you accidentally close it at any time, return to your Interview Details Document to find the command to reopen it.
 
 &nbsp;
 
 **The Terminal** can be opened/closed by clicking the <walkthrough-cloud-shell-icon></walkthrough-cloud-shell-icon> icon above this panel.
-* You can copy commands listed in the instructions to the terminal by clicking the <walkthrough-cloud-shell-icon></walkthrough-cloud-shell-icon> in code boxes like the one below. Try running the command below:
-```bash
-sh ~/editor-walkthrough/timer.sh &
-```
-* A timer will show at the bottom right of the terminal once you start your interview. You should see an example timer running now.
+
+* If you are unfamiliar with the command line [here are some key Linux commands](http://www.informit.com/blogs/blog.aspx?uk=The-10-Most-Important-Linux-Commands).
 
 &nbsp;
 
@@ -30,5 +24,4 @@ sh ~/editor-walkthrough/timer.sh &
 &nbsp;
 
 *Other Tips:*
-* If you are unfamiliar with the command line [here are some key Linux commands](http://www.informit.com/blogs/blog.aspx?uk=The-10-Most-Important-Linux-Commands).
 * If you would like to change the editor's color theme, go to File > Settings > Change Color Theme. 

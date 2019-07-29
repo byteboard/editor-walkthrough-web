@@ -17,7 +17,7 @@
 3. Right click on ``` MathStuff() ```, and explore options like 
     * "Find all references" (search across files and edit inline)
     * "Go to definition" (open the file where item is defined)
-    * "Peak definition" (show inline the place where item is defined)
+    * "Peek definition" (show inline the place where item is defined)
 4. From the menu, click View > Outline. This shows a full outline of the runner.py file for easy navigation.
 5. Take a moment to explore a little more. There are several features this walk-through doesn't cover that you may find interesting.
 

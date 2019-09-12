@@ -1,8 +1,11 @@
-from mathStuff import MathStuff
+from math_stuff import MathStuff
 
 
-class Runner:
+def run():
+    print("Hello World")
+    mathstuff = MathStuff()
+    print(mathstuff.square(5))
 
-    def run():
-        mathStuff = MathStuff()
-        mathStuff.square(25)
+
+if __name__ == "__main__":
+    run()

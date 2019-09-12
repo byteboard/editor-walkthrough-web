@@ -12,16 +12,22 @@
 &nbsp;
 
 **The Editor** can be opened/closed by clicking the <walkthrough-cloud-shell-editor-icon></walkthrough-cloud-shell-editor-icon> icon above this panel. The editor will auto-save any changes you make. Please take some time to familiarize yourself with the editor:  
-1. Open the runner.py file in the editor-walkthrough folder. 
-2. Hover over ``` MathStuff() ``` in the runner.py file. You should see the definition of the MathStuff Class appear. Hovering over functions, classes, and libraries allows you to view relevant documentation. 
+1. Open the ```runner.py``` file in the editor-walkthrough folder. 
+2. Hover over ``` MathStuff() ``` in the runner.py file. You should see the definition of the ```MathStuff``` Class appear. Hovering over functions, classes, and libraries allows you to view relevant documentation. 
 3. Right click on ``` MathStuff() ```, and explore options like 
     * "Find all references" (search across files and edit inline)
     * "Go to definition" (open the file where item is defined)
     * "Peek definition" (show inline the place where item is defined)
-4. From the menu, click View > Outline. This shows a full outline of the runner.py file for easy navigation.
-5. Take a moment to explore a little more. There are several features this walk-through doesn't cover that you may find interesting.
+4. From the menu, click View > Outline. This shows a full outline of the ```runner.py``` file for easy navigation.
+5. For your interview, you will be given a script to run your code. Try it now by pasting this into the terminal:
+
+```bash
+sh run_hello.sh
+```
+6. Take a moment to explore a little more. There are several features not covered here that you may find interesting.
 
 &nbsp;
 
 *Other Tips:*
 * If you would like to change the editor's color theme, go to File > Settings > Change Color Theme. 
+
